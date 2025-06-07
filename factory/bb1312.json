@@ -1,0 +1,9 @@
+{
+	"name": "bb1312",
+	"location": "polandcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1c44dea4-7e92-429a-a8d9-9b4504f375cb",
+		"tenantId": "63441aef-da0e-4397-bb7e-f9d4705e963b"
+	}
+}
